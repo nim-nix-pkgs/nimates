@@ -11,6 +11,7 @@
   inputs.src-nimates-master.ref   = "refs/heads/master";
   inputs.src-nimates-master.owner = "jamesalbert";
   inputs.src-nimates-master.repo  = "nimates";
+  inputs.src-nimates-master.dir   = "";
   inputs.src-nimates-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
