@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689939,
-        "narHash": "sha256-s+fdw+fR+Q2ON7V6beoaj7G5KISVp0543FnrNeZ+TQw=",
+        "lastModified": 1653696544,
+        "narHash": "sha256-0yKKQTp5kYHcCBDj+oArt7ZH5bdYBx2Brv+JZxTvh5o=",
         "owner": "nim-nix-pkgs",
         "repo": "nimates",
-        "rev": "563c5d8fe85e5821f4f829c7ae9c24dcc3709a76",
+        "rev": "ff3fc54438f10dff230cb75e7a7f8a538bb9b719",
         "type": "github"
       },
       "original": {
